@@ -1,0 +1,17 @@
+/Users/rafaelguzman/Documents/PRUEBA_SIC/SERVICE/src/main/java/co/gov/sic/pruebarafael/repository/TramiteRepository.java
+/Users/rafaelguzman/Documents/PRUEBA_SIC/SERVICE/src/main/java/co/gov/sic/pruebarafael/model/dto/AutenticacionDTO.java
+/Users/rafaelguzman/Documents/PRUEBA_SIC/SERVICE/src/main/java/co/gov/sic/pruebarafael/service/TramitesServiceImpl.java
+/Users/rafaelguzman/Documents/PRUEBA_SIC/SERVICE/src/main/java/co/gov/sic/pruebarafael/controller/PersonaController.java
+/Users/rafaelguzman/Documents/PRUEBA_SIC/SERVICE/src/main/java/co/gov/sic/pruebarafael/controller/TramitesController.java
+/Users/rafaelguzman/Documents/PRUEBA_SIC/SERVICE/src/main/java/co/gov/sic/pruebarafael/service/PersonasService.java
+/Users/rafaelguzman/Documents/PRUEBA_SIC/SERVICE/src/main/java/co/gov/sic/pruebarafael/model/Usuario.java
+/Users/rafaelguzman/Documents/PRUEBA_SIC/SERVICE/src/main/java/co/gov/sic/pruebarafael/service/PersonasServiceImpl.java
+/Users/rafaelguzman/Documents/PRUEBA_SIC/SERVICE/src/main/java/co/gov/sic/pruebarafael/service/UsuarioService.java
+/Users/rafaelguzman/Documents/PRUEBA_SIC/SERVICE/src/main/java/co/gov/sic/pruebarafael/service/TramitesService.java
+/Users/rafaelguzman/Documents/PRUEBA_SIC/SERVICE/src/main/java/co/gov/sic/pruebarafael/controller/UsuarioController.java
+/Users/rafaelguzman/Documents/PRUEBA_SIC/SERVICE/src/main/java/co/gov/sic/pruebarafael/service/UsuarioServiceImpl.java
+/Users/rafaelguzman/Documents/PRUEBA_SIC/SERVICE/src/main/java/co/gov/sic/pruebarafael/PruebaRafaelApplication.java
+/Users/rafaelguzman/Documents/PRUEBA_SIC/SERVICE/src/main/java/co/gov/sic/pruebarafael/model/Persona.java
+/Users/rafaelguzman/Documents/PRUEBA_SIC/SERVICE/src/main/java/co/gov/sic/pruebarafael/model/Tramite.java
+/Users/rafaelguzman/Documents/PRUEBA_SIC/SERVICE/src/main/java/co/gov/sic/pruebarafael/repository/PersonaRepository.java
+/Users/rafaelguzman/Documents/PRUEBA_SIC/SERVICE/src/main/java/co/gov/sic/pruebarafael/repository/UsuarioRepository.java
