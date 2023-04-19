@@ -1,0 +1,33 @@
+<div class="container">
+    <div class="card">
+        <div class="card-header">
+            <h3>Listado Tramites</h3>
+        </div>
+        <div class="card-body">
+            <table class="table table-hover">
+                <thead>
+                    <tr class="text-center">
+                        <th>ID</th>
+                        <th>AÑO RADICADO</th>
+                        <th>NUMERO RADICADO</th>
+                        <th>NOMBRE</th>
+                        <th>DESCRIPCION</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let tramite of tramitesDto" class="text-center">
+                        <td>{{tramite.id}}</td>
+                        <td>{{tramite.anioRadicacion}}</td>
+                        <td>{{tramite.numeroRadicado}}</td>
+                        <td>{{tramite.nombre}}</td>
+                        <td>{{tramite.descripcion}}</td>
+                                                
+                    </tr>
+                </tbody>
+
+            </table>
+        </div>
+
+    </div>
+
+</div>

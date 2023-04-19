@@ -1,0 +1,29 @@
+<div class="container">
+    <div class="card">
+       <div class="card-header">
+          <h3>Listado de Usuarios</h3>
+       </div>
+       <div class="card-body">
+          <table class="table table-hover">
+             <thead>
+                <tr class="text-center">
+                   <th>ID</th>
+                   <th>NOMBRE</th>
+                   <th>GENERO</th>
+                   <th>EMAIL</th>
+                   <th>ESTADO</th>
+                </tr>
+             </thead>
+             <tbody>
+                <tr *ngFor="let item of usuariosDto" class="text-center">
+                   <td>{{item.id}}</td>
+                   <td>{{item.name}}</td>
+                   <td>{{item.gender}}</td>
+                   <td>{{item.email}}</td>
+                   <td [ngClass]="item.status == 'active' ? 'badge bg-success' : 'badge bg-danger'">{{item.status}}</td>
+                </tr>
+             </tbody>
+          </table>
+       </div>
+    </div>
+ </div>
